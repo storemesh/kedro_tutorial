@@ -6,7 +6,7 @@
     ```sh
     conda create -n kedro-environment python=3.8  
     # press y
-    source activate kedro-environment
+    conda activate kedro-environment
     ```
 
     **expected result:**
